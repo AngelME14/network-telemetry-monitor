@@ -63,3 +63,4 @@ Tabla `network_stats`: `id` (INTEGER), `timestamp` (DATETIME), `target_type` (TE
 ## Autor
 
 José Ángel Morales Ezquivel, estudiante de Ingeniería en Administración de Sistemas (UANL-FIME)
+- **LinkedIn:** [Jose Angel Morales Ezquivel](https://www.linkedin.com/in/jose-angel-morales-ezquivel)
