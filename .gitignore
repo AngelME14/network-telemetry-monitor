@@ -1,0 +1,8 @@
+# Ignorar bases de datos y exportaciones analiticas
+data/
+*.db
+*.csv
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
